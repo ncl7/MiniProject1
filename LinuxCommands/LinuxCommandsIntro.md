@@ -26,4 +26,5 @@ Cp – copy. Use the cp command to copy content of one file into another. It is 
 
 As a result, culture.txt has the same content as travel.txt
 
+mv – move. The mv command is used to move from one location to another and rename files or directories. The difference between mv and cp is cp copies content from one source file into another (copy and paste). The mv command moves a file in its entirety to a different location. 
 
