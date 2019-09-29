@@ -12,5 +12,8 @@ Cd – change directory. Consider your files like a hierarchy. To navigate aroun
 
 ![cd](/images/images/LinuxCommands/cd.png)
 
+Mkdir – make directory. To create a new directory within your current working directory, use mkdir. Mkdir helps keep your work organized by storing similar files in one place.
+
+
 
 
