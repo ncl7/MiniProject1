@@ -1,0 +1,12 @@
+Vi is an a text-editor that can be used from any terminal. Vi works with Linux, Unix, or Unix-based operating systems. It can also be used for Windows, but commands may vary. Useful commands in vi for Linux include:
+
+“vi (file name)” - creates a file with that file name or opens an existing file with vi
+“i” - inserts to the left of the current position of the cursor (end with ESC key)
+“x”- deletes current character
+“D” - deletes portion of the current line to the right of the cursor
+“u”- undos the last command
+“:w” - writes file to disk and stay in vi (end with Enter key)
+“:q!” - quits vi but does not write the file to disk (end with Enter key)
+“:wq” - writes the file to disk and then quit vi (end with Enter key)
+“ZZ” - saves the file and exits vi
+
