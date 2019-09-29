@@ -1,7 +1,7 @@
 # MiniProject1
 Work for Miniproject
 
-Group Names: Nicole Lim and Shannon Peay
+Group Member Names: Nicole Lim and Shannon Peay
 
 Task List
 
@@ -9,10 +9,10 @@ Task List
 
 - [] Create content that explains how using Docker and continous integration can improve the productivity and competitiveness of a company
 
-- [] Create content that explains commands and usage for vi
+- [x] Create content that explains commands and usage for vi
 - [] Define: What, Why, and How to use Linux Commands
 - [] Cd, mkdir,cp,pwd,mv,rm(Shannon)
-- [] History, home directory and ~, file paths in linux, using up and down arrow for history (Nicole)
+- [x] History, home directory and ~, file paths in linux, using up and down arrow for history (Nicole)
 - [] Explain gitFlow workflow
 - [] Define and provide examples for following Git commands and terminology
 - [] Repository, clone, fork, branch, commit, merge, checkout (Nicole)
