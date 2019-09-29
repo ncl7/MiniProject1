@@ -6,13 +6,13 @@ Push – git push is the best way to “push” commits from your local reposito
         Git push origin master (show example)
         Once you push your commits onto a remote repository, the changes will be reflected on your remote repository(GitHub)
 
-![push](/images/GitCommands/push.png)
+![push](/images/images/GitCommands/push.png)
 
 
 
 Pull  - git pull takes all the changes you don’t have from one repository (git fetch) and merges (git merge) those changes into a branch you are currently working on.
 
-![pull](/images/GitCommands/pull.png)
+![pull](/images/images/GitCommands/pull.png)
 
 
 
