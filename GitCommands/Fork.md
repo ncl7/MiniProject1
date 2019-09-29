@@ -1,0 +1,2 @@
+A **fork** is a copy of the repository that allows changes to be brought to the original account. After a user forks someone’s repository, it will be added to their account on Github. The user can then clone their forked repository onto their laptop and make edits and additions as needed. After committing and pushing to their forked repository, then the user can make a pull request for changes to be brought to the original repository. This allows for bi-directional change.
+
