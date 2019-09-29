@@ -15,7 +15,7 @@ Task List
 - [x] History, home directory and ~, file paths in linux, using up and down arrow for history (Nicole)
 - [] Explain gitFlow workflow
 - [] Define and provide examples for following Git commands and terminology
-- [] Repository, clone, fork, branch, commit, merge, checkout (Nicole)
+- [x] Repository, clone, fork, branch, commit, merge, checkout (Nicole)
 - [x] Push, pull, remote Add/Remove/Show, status, master branch (Shannon)
 - [] Formatting and style
 - [] Make sure content is in appropriate sections
