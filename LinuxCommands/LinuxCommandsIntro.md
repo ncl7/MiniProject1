@@ -10,6 +10,7 @@ Cd – change directory. Consider your files like a hierarchy. To navigate aroun
 	An example of how to go backwards in your hierarchy type cd ..  
 	If you want to go forward in a path, type cd  <destination> 
 
+![cd](/images/images/LinuxCommands/cd.png)
 
 
 
