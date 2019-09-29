@@ -18,4 +18,12 @@ Mkdir – make directory. To create a new directory within your current working 
 
 Cp – copy. Use the cp command to copy content of one file into another. It is similar to ‘copy and paste’. Instead of retyping content that is in one file, can ‘copy and paste’ content from one destination to another with a single command.
 
+![cpboth](/images/images/LinuxCommands/cpboth.png)
+
+*Used cp to copy all content within ‘travel.txt’ into culture.txt’
+
+*![cpculture](/images/images/LinuxCommands/cpculture.png)
+
+As a result, culture.txt has the same content as travel.txt
+
 
