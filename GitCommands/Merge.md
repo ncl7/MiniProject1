@@ -1,0 +1,2 @@
+A **merge** happens when branches are put together. It is a way to combine work that was done on separate branches or to combine work done from different computers. For example, the branch I am working on can be merged with my team member’s original repository. Merges are useful for group work since the remote repository can be updated regularly with branches being merged into the master branch. This also ensures that group members can have the latest working repository since they could clone the updated, merged repository.
+

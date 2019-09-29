@@ -1,0 +1,2 @@
+A  **commit** can be a task (like a file), a fix (an edit to a file), or a feature (something added that is new). Commits can be used to add a message to the changes being made to the repository. For example, after a file is added to a project then the user will use “git -m commit (file name)” and include a message such as “Feature: added a new file” so that when it is pushed to the repository, there is a clear reason for why the commit was made and what happened.
+
