@@ -56,6 +56,15 @@ Note directories are highlighted in a different color than files (cities and ber
 
 
 
+Next, we will introduce the following four Linux commands: history, home directory and ~, file paths in Linux, and using the up and down arrows in history
 
+The **history** command is used to show what was previously executed. This is helpful when the user wants to see a list of the commands that were completed and could help greatly with troubleshooting. There are numerous tags for the history command and shortcuts below:
 
+“-c” clears the history list
+“-a” adds history lines from the current session to the history file
+“-n” reads all history lines that are not already read from the history file
+“-r” reads history file and adds its contents to the history list
+“-w” write the current history to the file and add them to the history list
+“!string” executes the most recent command that begins with string
+“!!” re-executes the most recently executed command
 
