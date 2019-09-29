@@ -32,4 +32,9 @@ mv – move. The mv command is used to move from one location to another and ren
 
 *Note directories are highlighted in a different color than files (cities and berlin.txt)
 
+*mv is also used to rename a file
+
+![mv3](/images/images/LinuxCommands/mv3.png)
+
+
 
