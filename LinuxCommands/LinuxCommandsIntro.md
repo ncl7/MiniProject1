@@ -30,4 +30,6 @@ mv – move. The mv command is used to move from one location to another and ren
 
 ![mv2](/images/images/LinuxCommands/mv2.png)
 
+*Note directories are highlighted in a different color than files (cities and berlin.txt)
+
 
