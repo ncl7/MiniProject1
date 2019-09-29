@@ -44,4 +44,10 @@ rm – remove. When a user wants to remove a file or directory, use rm command. 
 *Helpful hint: use rm –r to remove a directory
 
 
+*Snapshot of heirarchy before using Git Commands
+![beforehi](/images/images/LinuxCommands/beforehi.png)
+
+Snapshot of heirarchy after using Git Commands
+![finalhi](/images/images/LinuxCommands/finalhi.png)
+
 
