@@ -11,4 +11,4 @@ If you want to remove a repository because you are not working on it or for some
 
 Because Git allows you to collaborate with others, it is important to learn how to manage other remote repositories. A remote repository is a repository located somewhere other than your local computer. To show which remote repository you can edit, use git remote. This command will output a list of remotes being used to collaborate with others.
 
-![gitshow](/images/images/GitCommands/gitshow.png)
+![gitshow](/images/images/GitCommands/remoteshow.png)
