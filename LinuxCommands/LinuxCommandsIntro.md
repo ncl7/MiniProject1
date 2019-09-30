@@ -36,7 +36,7 @@ mv – move. The mv command is used to move from one location to another and ren
 
 ![mv3](/images/images/LinuxCommands/mv3.png)
 
-rm – remove. When a user wants to remove a file or directory, use rm command. Keep in mind, once you remove either a file or directory, it is gone for good. It is useful when a folder has unnecessary files/directories that can be removed. Now the coder can focus on only import/ant files/directories.
+When a user wants to remove a file or directory, use rm command. Keep in mind, once you remove either a file or directory, it is gone for good. It is useful when a folder has unnecessary files/directories that can be removed. Now the coder can focus on only import/ant files/directories.
 
 ![rm2](/images/images/LinuxCommands/rm2.png)
 ![rm3](/images/images/LinuxCommands/rm3.png)
