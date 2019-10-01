@@ -5,7 +5,7 @@ Group Member Names: Nicole Lim and Shannon Peay
 
 Task List
 
-- [] Create content that explains how using Git and automated testing can improve the productivity and competitiveness of a company
+- [x] Create content that explains how using Git and automated testing can improve the productivity and competitiveness of a company (Nicole)
 
 - [] Create content that explains how using Docker and continous integration can improve the productivity and competitiveness of a company
 
