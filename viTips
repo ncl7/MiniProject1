@@ -1,4 +1,7 @@
-Vi is an a text-editor that can be used from any terminal. Vi works with Linux, Unix, or Unix-based operating systems. It can also be used for Windows, but commands may vary. Useful commands in vi for Linux include:
+Vi is an a text-editor that can be used from any terminal.   
+Vi works with Linux, Unix, or Unix-based operating systems. 
+It can also be used for Windows, but commands may vary.
+Useful commands in vi for Linux include:
 
 “vi (file name)” - creates a file with that file name or opens an existing file with vi
 “i” - inserts to the left of the current position of the cursor (end with ESC key)
