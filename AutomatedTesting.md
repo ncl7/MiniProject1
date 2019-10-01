@@ -15,3 +15,5 @@ Basically, for faster testing results it is better to write a bunch of small tes
 units, some service tests, and very few high-level tests since these are slower and 
 require more integration. Otherwise, it would be difficult to maintain the fast 
 turnaround of automated testing.
+
+![](https://martinfowler.com/articles/practical-test-pyramid/testPyramid.png) "Practical Test Pyramid"
