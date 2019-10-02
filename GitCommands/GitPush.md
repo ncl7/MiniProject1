@@ -6,7 +6,7 @@ Git push is the best way to “push” commits from your local repository into a
 
 ![push](/images/images/GitCommands/push.png)
 
-**Check Out Other Git Commands**
+**Learn more Git Commands**
 
 * [Git Pull](https://github.com/Shannon-NJIT/MiniProject1/blob/master/GitCommands/GitPull.md)
 * [Git Remote](https://github.com/Shannon-NJIT/MiniProject1/blob/master/GitCommands/GitRemote.md)
