@@ -7,7 +7,7 @@ Task List
 
 - [x] Create content that explains how using Git and automated testing can improve the productivity and competitiveness of a company (Nicole)
 
-- [] Create content that explains how using Docker and continous integration can improve the productivity and competitiveness of a company
+- [x] Create content that explains how using Docker and continous integration can improve the productivity and competitiveness of a company (Shannon)
 
 - [x] Create content that explains commands and usage for vi (Nicole)
 - [x] Define: What, Why, and How to use Linux Commands
@@ -21,7 +21,7 @@ Task List
 - [] Formatting and style
 - [x] Make sure content is in appropriate sections (Shannon and Nicole)
 - [x] Readme file has group member’s names (Shannon)
-- [] Readme  file is an index to other pages and links to them
+- [x] Readme  file is an index to other pages and links to them (Shannon)
 - [] Use markdown to style pages nicely with headings
 - [] Create bullet points
 - [] Link multiple pages together
@@ -31,5 +31,16 @@ Task List
 - [] Submit link to a GitHub respository
 
 
+### Contents
 
+1. [Git Commands](https://github.com/Shannon-NJIT/MiniProject1/tree/master/GitCommands)
+1. [Linux Commands](https://github.com/Shannon-NJIT/MiniProject1/tree/master/LinuxCommands)
+1. [Images](https://github.com/Shannon-NJIT/MiniProject1/tree/master/images/images)
+1. [Automated Testing](https://github.com/Shannon-NJIT/MiniProject1/blob/master/AutomatedTesting.md)
+1. [Continuous Integration](https://github.com/Shannon-NJIT/MiniProject1/blob/master/CI.md)
+1. [Docker](https://github.com/Shannon-NJIT/MiniProject1/blob/master/Docker.md)
+1. [Vi Tips](https://github.com/Shannon-NJIT/MiniProject1/blob/master/viTips)
+1. [Git Usage](https://github.com/Shannon-NJIT/MiniProject1/blob/master/GitUsage.md)
+1. [Git Workflow](https://github.com/Shannon-NJIT/MiniProject1/blob/master/gitFlow.md)
+1. [Vi Tips](https://github.com/Shannon-NJIT/MiniProject1/blob/master/viTips)
 
