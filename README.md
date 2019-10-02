@@ -12,7 +12,7 @@ Group Member Names: Nicole Lim and Shannon Peay
 > [x] Cd, mkdir,cp,pwd,mv,rm(Shannon)
 
 > [x] History, home directory and ~, file paths in linux, using up and down arrow for history (Nicole)
-[] Explain gitFlow workflow
+- [] Explain gitFlow workflow
 - [x] Define and provide examples for following Git commands and terminology
 > [x] Repository, clone, fork, branch, commit, merge, checkout (Nicole)
 
@@ -22,13 +22,13 @@ Group Member Names: Nicole Lim and Shannon Peay
 - [x] Make sure content is in appropriate sections (Shannon and Nicole)
 - [x] Readme file has group member’s names (Shannon)
 - [x] Readme  file is an index to other pages and links to them (Shannon)
-[] Use markdown to style pages nicely with headings
-[] Create bullet points
-[] Link multiple pages together
+- [] Use markdown to style pages nicely with headings
+- [] Create bullet points
+- [] Link multiple pages together
 - [x] Add pictures, where necessary (Shannon and Nicole)
 - [x] Create a “Changelog” on Readme files that list all of the changes to the document and who did them (Shannon)
-[] Add a section of sources with links to tutorials and link to other documents in your work (optional)
-[] Submit link to a GitHub respository
+- [] Add a section of sources with links to tutorials and link to other documents in your work (optional)
+- [] Submit link to a GitHub respository
 
 
 ### Contents
