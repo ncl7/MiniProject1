@@ -1,4 +1,4 @@
-#Git Push
+# Git Push
 
 On this page, I will explain Git Push and its significance.
 
@@ -8,6 +8,6 @@ Git push is the best way to “push” commits from your local repository into a
 
 **Check Out Other Git Commands**
 
-* [Git Pull] (https://github.com/Shannon-NJIT/MiniProject1/blob/master/GitCommands/GitPull.md)
-* [Git Status] (https://github.com/Shannon-NJIT/MiniProject1/blob/master/GitCommands/GitStatus.md)
+* [Git Pull](https://github.com/Shannon-NJIT/MiniProject1/blob/master/GitCommands/GitPull.md)
+* [Git Status](https://github.com/Shannon-NJIT/MiniProject1/blob/master/GitCommands/GitStatus.md)
 
