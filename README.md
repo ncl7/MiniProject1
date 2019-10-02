@@ -39,7 +39,6 @@ Group Member Names: Nicole Lim and Shannon Peay
 1. [Automated Testing](https://github.com/Shannon-NJIT/MiniProject1/blob/master/AutomatedTesting.md)
 1. [Continuous Integration](https://github.com/Shannon-NJIT/MiniProject1/blob/master/CI.md)
 1. [Docker](https://github.com/Shannon-NJIT/MiniProject1/blob/master/Docker.md)
-1. [Vi Tips](https://github.com/Shannon-NJIT/MiniProject1/blob/master/viTips)
 1. [Git Usage](https://github.com/Shannon-NJIT/MiniProject1/blob/master/GitUsage.md)
 1. [Git Workflow](https://github.com/Shannon-NJIT/MiniProject1/blob/master/gitFlow.md)
 1. [Vi Tips](https://github.com/Shannon-NJIT/MiniProject1/blob/master/viTips)
