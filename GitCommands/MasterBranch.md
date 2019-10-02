@@ -6,7 +6,7 @@ When you clone a remote repository onto your local, a master branch is created. 
 
 ![masterbranch](/images/images/GitCommands/masterbranch.png)
 
-Learn more Git Commands
+**Learn more Git Commands**
 * [Git Status](https://github.com/Shannon-NJIT/MiniProject1/blob/master/GitCommands/GitStatus.md)
 * [Merge](https://github.com/Shannon-NJIT/MiniProject1/blob/master/GitCommands/Merge.md)
 

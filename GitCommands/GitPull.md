@@ -12,7 +12,7 @@ As shown in the example, use git pull to bring down committed changes from the r
 ![pull](/images/images/GitCommands/pull.png)
 
 
-Learn more Git Commands
+**Learn more Git Commands**
 * [Fork](https://github.com/Shannon-NJIT/MiniProject1/blob/master/GitCommands/Fork.md)
 * [Git Push](https://github.com/Shannon-NJIT/MiniProject1/blob/master/GitCommands/GitPush.md)
 

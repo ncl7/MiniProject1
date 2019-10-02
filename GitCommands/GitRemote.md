@@ -19,6 +19,6 @@ Because Git allows you to collaborate with others, it is important to learn how 
 ![gitshow](/images/images/GitCommands/remoteshow.png)
 
 
-Learn other Git Commands
+**Learn more Git Commands**
 * [Git Push](https://github.com/Shannon-NJIT/MiniProject1/blob/master/GitCommands/GitPush.md)
 * [Git Status](https://github.com/Shannon-NJIT/MiniProject1/blob/master/GitCommands/GitStatus.md)

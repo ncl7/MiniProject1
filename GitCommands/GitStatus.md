@@ -6,7 +6,7 @@ Git status informs you of what changes were made before deciding to commit. It i
 
 ![gitstatus](/images/images/GitCommands/gitstatus.png)
 
-Check out other Git Commands
+**Learn more Git Commands**
 * [Git Remote](https://github.com/Shannon-NJIT/MiniProject1/blob/master/GitCommands/GitRemote.md)
 * [Master Branch](https://github.com/Shannon-NJIT/MiniProject1/blob/master/GitCommands/MasterBranch.md)
 
