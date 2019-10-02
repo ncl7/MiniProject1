@@ -6,7 +6,7 @@ In this section, I will introduce Git Commands(**Remote Add/Show/Remove**) for w
 
 There are a couple ways to retrieve a remote repository from its source location and add to your local directory. One way is to use **git clone**. Git clone is an independent copy of a remote repository and different from forking. By using git clone, it adds a remote repository into your local working directory. This method allows for you to work independently on your own copy without disturbing the master branch. The second way to add a repository is to use git remote add <link to repository> url. Both methods are helpful when working in groups within the same repository. This is an advantage of using Git, version control.
 
-![remoteadd](/images/images/GitCommands/remoteadd.png)
+![remoteadd](/images/images/GitCommands/gitclone.png)
 
 ### Remote Remove
 
