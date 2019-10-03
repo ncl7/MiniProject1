@@ -20,10 +20,10 @@ Task List
 - [] Formatting and style
 - [] Make sure content is in appropriate sections
 - [x]Readme file has group member’s names (Shannon)
-- [] Readme  file is an index to other pages and links to them
+- [x] Readme  file is an index to other pages and links to them
 - [] Use markdown to style pages nicely with headings
 - [] Create bullet points
-- [] Link multiple pages together
+- [x] Link multiple pages together
 - [] Add pictures, where necessary
 - [x] Create a “Changelog” on Readme files that list all of the changes to the document and who did them (Shannon)
 - [] Add a section of sources with links to tutorials and link to other documents in your work (optional)
