@@ -47,12 +47,12 @@ Here is a list of six Linux commands to be introduced:
 > As shown, mv was used to rename berlin.txt into munich.txt
 ![mv3](/images/images/LinuxCommands/mv3.png)
 
-**Remove (*rm*)** - When a user wants to remove a file or directory, use rm command. Keep in mind, once you remove either a file or directory, it is gone for good. It is useful when a folder has unnecessary files/directories that can be removed. Now the coder can focus on only import/ant files/directories.
+**Remove (*rm*)** - When a user wants to remove a file or directory, use rm command. Keep in mind, once you remove either a file or directory, it is gone for good. It is useful when a folder has unnecessary files/directories that can be removed. Now the developer can focus on only important files/directories.
 
+> The example illustrates using rm to remove music.txt
 ![rm2](/images/images/LinuxCommands/rm2.png)
-![rm3](/images/images/LinuxCommands/rm3.png)
-
 > *Helpful hint: use rm –r to remove a directory*
+![rm3](/images/images/LinuxCommands/rm3.png)
 
 
 Snapshot of heirarchy before using Git Commands
