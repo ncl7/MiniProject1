@@ -10,12 +10,10 @@ Group Member Names: Nicole Lim and Shannon Peay
 - [x] Create content that explains commands and usage for vi (Nicole)
 - [x] Define: What, Why, and How to use Linux Commands
 > [x] Cd, mkdir,cp,pwd,mv,rm(Shannon)
-
 > [x] History, home directory and ~, file paths in linux, using up and down arrow for history (Nicole)
 - [] Explain gitFlow workflow
 - [x] Define and provide examples for following Git commands and terminology
 > [x] Repository, clone, fork, branch, commit, merge, checkout (Nicole)
-
 > [x] Push, pull, remote Add/Remove/Show, status, master branch (Shannon)
 
 **Formatting and style**
@@ -24,7 +22,7 @@ Group Member Names: Nicole Lim and Shannon Peay
 - [x] Readme  file is an index to other pages and links to them (Shannon)
 - [] Use markdown to style pages nicely with headings
 - [] Create bullet points
-- [] Link multiple pages together
+- [x] Link multiple pages together (Nicole)
 - [x] Add pictures, where necessary (Shannon and Nicole)
 - [x] Create a “Changelog” on Readme files that list all of the changes to the document and who did them (Shannon)
 - [] Add a section of sources with links to tutorials and link to other documents in your work (optional)
