@@ -5,4 +5,4 @@ Git is a great tool to use for version control and making sure that history is p
 Git branches are also a great feature for efficient team work. If the team members regularly fetch the updated master branch, then they can keep up with updates while working on their branch. If a team member makes mistakes on their branch and has not merged it or made a pull request, then they would not have to worry about ruining the master branch or another person’s branch since it is separate. Having the skills to use git makes an employee better and overall, a company is more competitive if it hires people that know git well and use it well. 
 
 ![](https://miro.medium.com/max/2732/1*qwFrTMnFkcd3U9rFKwwacw.png)
-Git and Github go hand in hand for collaborative work. The Github platform is used by many competitive companies today, such as Google, Microsoft, and Facebook.
+Git and Github go hand in hand for collaborative work. The Github platform is used by many competitive companies today, such as Google, Microsoft, and Facebook. Useful commands for Git can be seen in the [GitCommands](https://github.com/Shannon-NJIT/MiniProject1/tree/master/GitCommands) folder.
