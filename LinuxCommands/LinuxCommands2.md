@@ -1,4 +1,17 @@
-In this next section, we will be discussing the history command, the Linux home directory and ~, file paths in Linux, and using the tab key to complete file paths.
+# LINUX COMMANDS CONTINUED
+
+In this next section, we will be discussing:
+
+1. The history command
+2. The Linux home directory and ~
+3. File paths in Linux
+4. Using the tab key to complete file paths
+5. Using up and down arrow for history
+
+Refer to [LinuxCommandsIntro](https://github.com/Shannon-NJIT/MiniProject1/blob/master/LinuxCommands/LinuxCommandsIntro.md) for the previous section.
+
+
+## HISTORY
 
 The **history** command is used to show what was previously executed. This is helpful when the user wants to see a list of the commands that were completed and could help greatly with troubleshooting. There are numerous tags for the history command and shortcuts below:
 
@@ -17,9 +30,23 @@ An example for history from the command line is seen below in Figure 1. As you c
 
 --
 
-The **home directory** is what serves as the user’s repository and is also known as the login directory. This is where the user stores files, directories, etc. For Linux, the home directory can be accessed using “cd” or “cd ~”. It is important for the user to check that they are in the home directory (or another desired working directory) before cloning repositories, otherwise the repository may end up in the wrong location. An example of a shortcut to get a picture from the Pictures folder in the home directory would be: “~/Pictures/corgi.jpg”. The image in Figure 1 was created using the code below:  
+## HOME DIRECTORY
+
+The **home directory** is what serves as the user’s repository and is also known as the login directory. This is where the user stores files, directories, etc. For Linux, the home directory can be accessed using 
+
+> “cd” or “cd ~” 
+
+It is important for the user to check that they are in the home directory (or another desired working directory) before cloning repositories, otherwise the repository may end up in the wrong location. An example of a shortcut to get a picture from the Pictures folder in the home directory would be: 
+
+> ~/Pictures/corgi.jpg 
+
+The image in Figure 1 was created using the code below:  
 
 > ![](/desktop/history.png)
+
+--
+
+## UP AND DOWN ARROW KEYS
 
 Using the up and down arrow keys come in handy when recalling history. The up arrow key will recall the previous command that was entered. After hitting the up arrow key a few times to see previous commands, the user can use the down key to scroll back to the more recent entered commands. The up and down arrow keys are useful when the user makes a typo error since they could recall the command and edit instead of retyping the entire command. This is also useful if the user does not want to see the entire history list and wants a quick recollection of the last entered command. For example, Figure 2 below was the result of pressing the up arrow 5 times, recalling line 442 from the history.
 
