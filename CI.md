@@ -1,3 +1,5 @@
+#Continuous Integration
+
 In this file, I will explain how Continuous Integration will improve productivity and competitiveness of a company.
 
 
