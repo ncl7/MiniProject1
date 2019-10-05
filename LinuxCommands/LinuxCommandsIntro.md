@@ -1,61 +1,67 @@
+# Introduction to Linux Commands
 
-In this section, we will introduce six Linux commands (cd, mkdir, cp, pwd, mv, and rm)
+Here is a list of six Linux commands to be introduced:
 
-pwd – print working directory. Use it to output your current working directory path. It alerts where you are currently working within the file hierarchy. It is beneficial because sometimes a user can forget where he/she is working.
-	<insert picture here>
+1. pwd
+1. cd
+1. mkdir
+1. cp
+1. mv
+1. rm
 
-Cd – change directory. Consider your files like a hierarchy. To navigate around your hierarchy, use cd command. It is used to direct a user into a directory where he/she want to work in, also called a working directory. 
+**Print working directory (*pwd*)** - Use it to output your current working directory path. It alerts where you are currently working within the file hierarchy.It is beneficial because sometimes a user can forget where he/she is working.
 
-	An example of how to go backwards in your hierarchy type cd ..  
-	If you want to go forward in a path, type cd  <destination>
-	<insert pictuer here>
+> Type pwd on the command line
 
-Mkdir – make directory. To create a new directory within your current working directory, use mkdir. Mkdir helps keep your work organized by storing similar files in one place.
-	<insert picture here>
-	Hierarchical view
+![pwd](/images/images/LinuxCommands/pwd.png)
 
-Cp – copy. Use the cp command to copy content of one file into another. It is similar to ‘copy and paste’. Instead of retyping content that is in one file, can ‘copy and paste’ content from one destination to another with a single command.
-	<insert picture here>
+**Change directory (*cd*)** - Consider your files like a hierarchy. Navigate around your hierarchy using cd command. It is used to direct a user into a directory where he/she wants to work in, also called a working directory. 
 
-*with vi, I was able to create a message within ‘travel.txt’
-	<insert picture here>
+> To go forward in a path, type cd  < destination >
 
-Used cp to copy all content within 'travel.txt' into 'culture.txt'
-	<insert picture here>
+> To go backwards in your hierarchy type cd ..  
 
-As a result, culture.txt has the same content as travel.txt
+![cd](/images/images/LinuxCommands/cd.png)
 
-	<insert picture here>
+**Make directory (*mkdir*)** - Create a new directory within your current working directory with mkdir. Mkdir helps keep your work organized by storing similar files/directories in one place. It works by using the mkdir command followed by a name of the directory you want to create.
 
-(snapshot of the hierarchy before adding and copying content between .txt files)
+> Notice once a directory is created, it is highlighted (see example)
 
+![mkdir](/images/images/LinuxCommands/mkdir.png)
 
-*mv – move. The mv command is used to move from one location to another and rename files or directories. The difference between mv and cp is cp copies content from one source file into another (copy and paste). The mv command moves a file in its entirety to a different location 
-	
-	<insert picture here>
-*(snapshot of the hierarchy before using mv command)
+**Copy (*cp*)** - Use the cp command to copy content of one file into another. It is similar to ‘copy and paste’. Instead of retyping content that is in one file, can ‘copy and paste’ content from one destination to another with one command.
 
-	<insert picture here>
-Note directories are highlighted in a different color than files (cities and berlin.txt)
+![cpboth](/images/images/LinuxCommands/cpboth.png)
 
-	<insert picture here>
-(Snapshot of hierarchy after moving Berlin.txt) 
+> *Used cp to copy all content within ‘travel.txt’ into culture.txt’*
 
-*mv is also used to rename a file
-	<insert picture here>
+![cpculture](/images/images/LinuxCommands/cpculture.png)
 
-*Snapshot of the hierarchy after renaming the file berlin.txt to munich.txt
+> *As a result, culture.txt has the same content as travel.txt*
 
-*rm – remove. When a user wants to remove a file or directory, use rm command. Keep in mind, once you remove either a file or directory, it is gone for good. It is useful when a folder has unnecessary files/directories that can be removed. Now the coder can focus on only important files/directories.
+**Move (*mv*)** - The mv command is used to move from one location to another and rename files or directories. The difference between mv and cp is cp copies content from one source file into another (copy and paste). The mv command moves a file, in its entirety, to a different location. For developers, this is great to ‘lift and shift’ files and directories from one folder into another.
 
-	<insert pictures here>
+> As seen in the example below, mv was used to relocate berlin.txt into *cities* directory.
 
-*Helpful hint: use rm –r to remove a directory
+![mv2](/images/images/LinuxCommands/mv2.png)
 
-*Snapshot of the hierarchy, after using the commands mentioned above.
+> *Note directories are highlighted in a different color than files (cities and berlin.txt)*
 
+**mv is also used to rename a file**
+> As shown, mv was used to rename berlin.txt into munich.txt
 
+![mv3](/images/images/LinuxCommands/mv3.png)
 
+**Remove (*rm*)** - When a user wants to remove a file or directory, use rm command. Keep in mind, once you remove either a file or directory, it is gone for good. It is useful when a folder has unnecessary files/directories that can be removed. Now the developer can focus on only important files/directories.
 
+> The example illustrates using rm to remove music.txt
+
+![rm2](/images/images/LinuxCommands/rm2.png)
+![rm3](/images/images/LinuxCommands/rm3.png)
+
+> *Helpful hint: use rm –r to remove a directory*
 
 
+
+**Learn more Linux Commands**
+* [Linux Commands 2](https://github.com/Shannon-NJIT/MiniProject1/blob/master/LinuxCommands/LinuxCommands2.md)
