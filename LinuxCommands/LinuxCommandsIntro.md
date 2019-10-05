@@ -55,11 +55,6 @@ Here is a list of six Linux commands to be introduced:
 ![rm3](/images/images/LinuxCommands/rm3.png)
 
 
-Snapshot of heirarchy before using Git Commands
-![beforehi](/images/images/LinuxCommands/beforehi.png)
-
-Snapshot of heirarchy after using Git Commands
-![finalhi](/images/images/LinuxCommands/finalhi.png)
 
 **Learn more Linux Commands**
 * [Linux Commands 2](https://github.com/Shannon-NJIT/MiniProject1/blob/master/LinuxCommands/LinuxCommands2.md)
