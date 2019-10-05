@@ -29,11 +29,8 @@ Here is a list of six Linux commands to be introduced:
 **Copy (*cp*)** - Use the cp command to copy content of one file into another. It is similar to ‘copy and paste’. Instead of retyping content that is in one file, can ‘copy and paste’ content from one destination to another with one command.
 
 ![cpboth](/images/images/LinuxCommands/cpboth.png)
-
 > *Used cp to copy all content within ‘travel.txt’ into culture.txt’*
-
 ![cpculture](/images/images/LinuxCommands/cpculture.png)
-
 > *As a result, culture.txt has the same content as travel.txt*
 
 **Move (*mv*)** - The mv command is used to move from one location to another and rename files or directories. The difference between mv and cp is cp copies content from one source file into another (copy and paste). The mv command moves a file, in its entirety, to a different location. For developers, this is great to ‘lift and shift’ files and directories from one folder into another.
@@ -51,8 +48,8 @@ Here is a list of six Linux commands to be introduced:
 
 > The example illustrates using rm to remove music.txt
 ![rm2](/images/images/LinuxCommands/rm2.png)
-> *Helpful hint: use rm –r to remove a directory*
 ![rm3](/images/images/LinuxCommands/rm3.png)
+> *Helpful hint: use rm –r to remove a directory*
 
 
 
