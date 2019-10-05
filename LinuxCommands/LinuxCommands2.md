@@ -46,6 +46,22 @@ The image in Figure 1 was created using the code below:
 
 --
 
+## FILE PATHS IN LINUX
+
+File paths in Linux are a way for the user to know where files and folders are in the computer, and their relation to each other. The “/” character distinguishes if a file is in a folder or if a folder is in another folder. Whatever follows the / is stored inside the preceding item. File paths are useful when the user needs to access a specific file or folder, and the user knows the exact location. For example, the ingredient file is stored in the recipe folder in the meal folder in the file path below.
+
+> Meal/Recipe/Ingredient.md
+
+File paths also have shortcuts, such as using the Tab key.
+
+--
+
+## TAB KEY COMPLETION
+
+The Tab key autocompletes the file path and saves a lot of time for the user. If the user types in the beginning few letters of a unique folder, then they can use the tab key for the autocompletion of that folder name. For example, if a folder name was “InformationSystems601” the user could type in “~/Info” and press the Tab key.
+
+--
+
 ## UP AND DOWN ARROW KEYS
 
 Using the up and down arrow keys come in handy when recalling history. The up arrow key will recall the previous command that was entered. After hitting the up arrow key a few times to see previous commands, the user can use the down key to scroll back to the more recent entered commands. The up and down arrow keys are useful when the user makes a typo error since they could recall the command and edit instead of retyping the entire command. This is also useful if the user does not want to see the entire history list and wants a quick recollection of the last entered command. For example, Figure 2 below was the result of pressing the up arrow 5 times, recalling line 442 from the history.
