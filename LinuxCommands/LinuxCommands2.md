@@ -40,10 +40,6 @@ It is important for the user to check that they are in the home directory (or an
 
 > ~/Pictures/corgi.jpg 
 
-The image in Figure 1 was created using the code below:  
-
-> ![](/desktop/history.png)
-
 --
 
 ## FILE PATHS IN LINUX
