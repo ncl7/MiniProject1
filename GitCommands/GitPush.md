@@ -8,7 +8,7 @@ The diagram below shows one commit (highlighted in orange) ready to be pushed ba
 
 ![push](/images/images/GitCommands/push.png)
 
-**Learn more Git Commands**
+**Learn more Git Commands and Terminology**
 
 * [Git Pull](https://github.com/Shannon-NJIT/MiniProject1/blob/master/GitCommands/GitPull.md)
 * [Git Remote](https://github.com/Shannon-NJIT/MiniProject1/blob/master/GitCommands/GitRemote.md)
