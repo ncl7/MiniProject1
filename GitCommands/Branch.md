@@ -6,3 +6,5 @@ A **branch** is a copy of the repository, similar to a new version. The branch i
 ![](https://miro.medium.com/max/2100/1*iB8lNrITmLvKeL8mnp3qAA.png)
 
 **Figure 1. Feature branches example**
+
+A user can checkout the branch that they are working on. See the [checkout](https://github.com/Shannon-NJIT/MiniProject1/blob/master/GitCommands/Checkout.md) page to learn more.
