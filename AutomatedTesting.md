@@ -14,4 +14,5 @@ turnaround of automated testing.
 
 
 ![](https://martinfowler.com/articles/practical-test-pyramid/testPyramid.png)
+
 **Figure 1. Practical Test Pyramid**
