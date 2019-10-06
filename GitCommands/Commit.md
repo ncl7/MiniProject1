@@ -5,3 +5,5 @@ A  **commit** can be a task (like a file being created), a fix (an edit to a fil
 ![](/MiniProject1/images/images/GitCommands/commits.png)
 
 **Figure 1. Various commits performed, captured in a pull request**
+
+See the [Repository](https://github.com/Shannon-NJIT/MiniProject1/blob/master/GitCommands/Repository.md) section for more information about repositories.
