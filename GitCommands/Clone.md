@@ -9,10 +9,10 @@ A **clone** is a copy of the repository, but it is an independent copy. Bi-direc
 
 See the links below for more information
 
-[Repository](https://github.com/Shannon-NJIT/MiniProject1/blob/master/GitCommands/Repository.md)
+* [Repository](https://github.com/Shannon-NJIT/MiniProject1/blob/master/GitCommands/Repository.md)
 
-[Fork](https://github.com/Shannon-NJIT/MiniProject1/blob/master/GitCommands/Fork.md)
+* [Fork](https://github.com/Shannon-NJIT/MiniProject1/blob/master/GitCommands/Fork.md)
 
-[Git Remote](https://github.com/Shannon-NJIT/MiniProject1/blob/master/GitCommands/GitRemote.md)
+* [Git Remote](https://github.com/Shannon-NJIT/MiniProject1/blob/master/GitCommands/GitRemote.md)
 
-[Branch](https://github.com/Shannon-NJIT/MiniProject1/blob/master/GitCommands/Branch.md)
+* [Branch](https://github.com/Shannon-NJIT/MiniProject1/blob/master/GitCommands/Branch.md)
