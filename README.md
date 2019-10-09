@@ -23,7 +23,7 @@ Group Member Names: Nicole Lim and Shannon Peay
 - [x] Readme file has group member’s names (Shannon)
 - [x] Readme  file is an index to other pages and links to them (Shannon)
 - [x] Use markdown to style pages nicely with headings (Nicole and Shannon)
-- [] Create bullet points
+- [x] Create bullet points (Shannon and Nicole)
 - [x] Link multiple pages together (Nicole and Shannon)
 - [x] Add pictures, where necessary (Shannon and Nicole)
 - [x] Create a “Changelog” on Readme files that list all of the changes to the document and who did them (Shannon)
