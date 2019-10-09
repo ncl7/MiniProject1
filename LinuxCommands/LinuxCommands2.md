@@ -25,10 +25,10 @@ The **history** command is used to show what was previously executed. This is he
 
 An example for history from the command line is seen below in Figure 1. As you can see, the list is inclusive.
 
-![](/desktop/history.png)
+![](https://github.com/Shannon-NJIT/MiniProject1/blob/master/images/images/LinuxCommands/history.png)
 **Figure 1. History from my command line after working on MiniProject1.**
 
---
+
 
 ## HOME DIRECTORY
 
@@ -40,7 +40,7 @@ It is important for the user to check that they are in the home directory (or an
 
 > ~/Pictures/corgi.jpg 
 
---
+
 
 ## FILE PATHS IN LINUX
 
@@ -50,18 +50,17 @@ File paths in Linux are a way for the user to know where files and folders are i
 
 File paths also have shortcuts, such as using the Tab key.
 
---
+
 
 ## TAB KEY COMPLETION
 
 The Tab key autocompletes the file path and saves a lot of time for the user. If the user types in the beginning few letters of a unique folder, then they can use the tab key for the autocompletion of that folder name. For example, if a folder name was “InformationSystems601” the user could type in “~/Info” and press the Tab key.
 
---
 
 ## UP AND DOWN ARROW KEYS
 
 Using the up and down arrow keys come in handy when recalling history. The up arrow key will recall the previous command that was entered. After hitting the up arrow key a few times to see previous commands, the user can use the down key to scroll back to the more recent entered commands. The up and down arrow keys are useful when the user makes a typo error since they could recall the command and edit instead of retyping the entire command. This is also useful if the user does not want to see the entire history list and wants a quick recollection of the last entered command. For example, Figure 2 below was the result of pressing the up arrow 5 times, recalling line 442 from the history.
 
-![](/desktop/uparrow.png)
+![](https://github.com/Shannon-NJIT/MiniProject1/blob/master/images/images/LinuxCommands/uparrow.png)
 **Figure 2. Recalling history with the up arrow and saving time**
 
