@@ -4,9 +4,9 @@ The **repository** is a folder/directory where all files of the project are stor
 
 See the pages below for more information:
 
-[History](https://github.com/Shannon-NJIT/MiniProject1/blob/master/LinuxCommands/LinuxCommands2.md)
+* [History](https://github.com/Shannon-NJIT/MiniProject1/blob/master/LinuxCommands/LinuxCommands2.md)
 
-[Git Clone](https://github.com/Shannon-NJIT/MiniProject1/blob/master/GitCommands/Clone.md)
+* [Git Clone](https://github.com/Shannon-NJIT/MiniProject1/blob/master/GitCommands/Clone.md)
 
-[Git Remote](https://github.com/Shannon-NJIT/MiniProject1/blob/master/GitCommands/GitRemote.md)
+* [Git Remote](https://github.com/Shannon-NJIT/MiniProject1/blob/master/GitCommands/GitRemote.md)
 
