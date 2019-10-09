@@ -28,7 +28,7 @@ An example for history from the command line is seen below in Figure 1. As you c
 ![](https://github.com/Shannon-NJIT/MiniProject1/blob/master/images/images/LinuxCommands/history.png)
 **Figure 1. History from my command line after working on MiniProject1.**
 
---
+
 
 ## HOME DIRECTORY
 
@@ -40,7 +40,7 @@ It is important for the user to check that they are in the home directory (or an
 
 > ~/Pictures/corgi.jpg 
 
---
+
 
 ## FILE PATHS IN LINUX
 
@@ -50,13 +50,12 @@ File paths in Linux are a way for the user to know where files and folders are i
 
 File paths also have shortcuts, such as using the Tab key.
 
---
+
 
 ## TAB KEY COMPLETION
 
 The Tab key autocompletes the file path and saves a lot of time for the user. If the user types in the beginning few letters of a unique folder, then they can use the tab key for the autocompletion of that folder name. For example, if a folder name was “InformationSystems601” the user could type in “~/Info” and press the Tab key.
 
---
 
 ## UP AND DOWN ARROW KEYS
 
