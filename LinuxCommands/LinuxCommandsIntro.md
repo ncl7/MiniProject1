@@ -11,7 +11,7 @@ Here is a list of six Linux commands to be introduced:
 
 **Print working directory (*pwd*)** - Use it to output your current working directory path. It alerts where you are currently working within the file hierarchy.It is beneficial because sometimes a user can forget where he/she is working.
 
-> Type pwd on the command line
+> Type pwd on the command line to print your current working directory
 
 ![pwd](/images/images/LinuxCommands/pwd.png)
 
@@ -39,7 +39,7 @@ Here is a list of six Linux commands to be introduced:
 
 > *As a result, culture.txt has the same content as travel.txt*
 
-**Move (*mv*)** - The mv command is used to move from one location to another and rename files or directories. The difference between mv and cp is cp copies content from one source file into another (copy and paste). The mv command moves a file, in its entirety, to a different location. For developers, this is great to ‘lift and shift’ files and directories from one folder into another.
+**Move (*mv*)** - The mv command is used to move a file from one location to another and rename files or directories. The difference between mv and cp is cp copies content from one source file into another (copy and paste). The mv command moves a file, in its entirety, to a different location. For developers, this is great to ‘lift and shift’ files and directories from one folder into another.
 
 > As seen in the example below, mv was used to relocate berlin.txt into *cities* directory.
 
