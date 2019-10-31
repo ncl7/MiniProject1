@@ -28,7 +28,7 @@ Group Member Names: Nicole Lim and Shannon Peay
 - [x] Add pictures, where necessary (Shannon and Nicole)
 - [x] Create a “Changelog” on Readme files that list all of the changes to the document and who did them (Shannon)
 - [] Add a section of sources with links to tutorials and link to other documents in your work (optional)
-- [] Submit link to a GitHub respository
+- [x] Submit link to our GitHub respository (Shannon and Nicole)
 
 
 ### Contents
