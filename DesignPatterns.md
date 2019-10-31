@@ -6,3 +6,12 @@ Design patterns are used for software design to solve common problems. The five 
 3. Factory Method - pattern used to replace class constructors. Object types that are instantiated can be determined at run-time
 4. Prototype - copies all properties of an existing object to instantiate a new object (independent clone). 
 5. Singleton - only one object of a class is ever created 
+
+They also mention structural patterns that help define relationships between classes or objects. The structural patterns are:
+1. Adapter - links two otherwise incompatible types with a class 
+2. Bridge - separates abstract elements of a class
+3. Composite - creates recursive tree structures of objects with a hierarchy so they can be accessed and used in a standard way
+4. Decorator - extends or alters functionality of objects by wrapping them in an object of a decorator class
+5. Facade - defines a simplified interface
+6. Flyweight - reduces memory and resource usage containing many hundreds, thousands, etc. of similar objects
+7. Proxy - provides a surrogate or placeholder object. Accepts requests from a client object and passes them to a real subject object as needed
