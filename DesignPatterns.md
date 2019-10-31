@@ -15,3 +15,16 @@ They also mention structural patterns that help define relationships between cla
 5. Facade - defines a simplified interface
 6. Flyweight - reduces memory and resource usage containing many hundreds, thousands, etc. of similar objects
 7. Proxy - provides a surrogate or placeholder object. Accepts requests from a client object and passes them to a real subject object as needed
+
+The behavioral patterns mentioned in the book define communication between classes and objects. The behavioral patterns are:
+1. Chain of Responsibility - processes varied requests, can be dealt with by a different handler
+2. Command - expresses a request in a command object, including the call to be made and its parameters
+3. Interpreter - defines grammar for instructions
+4. Iterator - provides a standard interface for a collection of items
+5. Mediator - reduces coupling between classes that communicate with each other
+6. Memento - captures the current state of an object and stores it so it can be restored at a later time
+7. Observer - allows an object to publish changes to its state
+8. State - used to alter the behavior of an object 
+9. Strategy - creates an interchangeable family of algorithms
+10. Template Method - defines the basic steps of an algorithm, allows implementation of steps to be changed
+11. Visitor - separates a relatively complex set of structured data classes from the functionality
