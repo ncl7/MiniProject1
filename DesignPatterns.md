@@ -28,3 +28,5 @@ The behavioral patterns mentioned in the book define communication between class
 9. Strategy - creates an interchangeable family of algorithms
 10. Template Method - defines the basic steps of an algorithm, allows implementation of steps to be changed
 11. Visitor - separates a relatively complex set of structured data classes from the functionality
+
+Click [here](http://www.blackwasp.co.uk/gofpatterns.aspx) to learn more about these design patterns.
