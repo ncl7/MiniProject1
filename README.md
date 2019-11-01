@@ -42,4 +42,13 @@ Group Member Names: Nicole Lim and Shannon Peay
 1. [Git Usage](https://github.com/Shannon-NJIT/MiniProject1/blob/master/GitUsage.md)
 1. [Git Workflow](https://github.com/Shannon-NJIT/MiniProject1/blob/master/gitFlow.md)
 1. [Vi Tips](https://github.com/Shannon-NJIT/MiniProject1/blob/master/viTips)
+1. [Exception](https://github.com/Shannon-NJIT/MiniProject1/blob/master/Exception.md)
+1. [Unit Test](https://github.com/Shannon-NJIT/MiniProject1/blob/master/UnitTest.md)
+1. [Constructor](https://github.com/Shannon-NJIT/MiniProject1/blob/master/Constructor.md)
+1. [Factory](https://github.com/Shannon-NJIT/MiniProject1/blob/master/Factory.md)
+1. [Decorator](https://github.com/Shannon-NJIT/MiniProject1/blob/master/Decorator.md)
+1. [Extend Class](https://github.com/Shannon-NJIT/MiniProject1/blob/master/ExtendClass.md)
+1. [CSV Files](https://github.com/Shannon-NJIT/MiniProject1/blob/master/CSVFiles.md)
+1. [Reading Files](https://github.com/Shannon-NJIT/MiniProject1/blob/master/ReadingFiles.md)
+
 
