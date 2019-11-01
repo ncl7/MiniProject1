@@ -4,4 +4,4 @@ Whitespace from indentation controls flow by delimiting the scope in Python. The
 
 ![](https://github.com/Shannon-NJIT/MiniProject1/blob/master/images/images/Indentation.png)
 
-Figure 1. Indentation example in Python program in PyCharm
+**Figure 1. Indentation example in Python program in PyCharm**
