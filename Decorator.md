@@ -1,0 +1,2 @@
+
+In order to understand decorator, it is important to define function. A function in Python returns a value based on a set of arguments. Additionally, they are first-class objects. That means a function can be used as an argument. A decorator is a design pattern that allows a user to wrap a function and provide additional functionality while keeping its signature in tact. Overall, you can add additional responsibilities to a function dynamically.
