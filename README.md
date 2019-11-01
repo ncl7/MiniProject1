@@ -20,9 +20,9 @@ Group Member Names: Nicole Lim and Shannon Peay
 
 ## Statistics Calculator Task List
 
-> [x] Exception, Unit Test, Constructor, Factory, Decorator, Extend Class, CSV Files, Raeding Files (Shannon)
-> [] How Python uses Identation to control Flow, Don't Repeat Yourself, Design Patterns, Class, Object, Static, Property/Attribute, Method (Nicole)
-> [] Calculator Blueprint (Kelly)
+- [x] Exception, Unit Test, Constructor, Factory, Decorator, Extend Class, CSV Files, Raeding Files (Shannon)
+- [] How Python uses Identation to control Flow, Don't Repeat Yourself, Design Patterns, Class, Object, Static, Property/Attribute, Method (Nicole)
+- [] Calculator Blueprint (Kelly)
 
 
 **Formatting and style**
