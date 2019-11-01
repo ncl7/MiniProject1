@@ -23,7 +23,7 @@ Group Member Names: Nicole Lim and Shannon Peay
 Group Member Names: Shannon Peay, Nicole Lim, and Kelley Shann
 
 - [x] Exception, Unit Test, Constructor, Factory, Decorator, Extend Class, CSV Files, Reading Files (Shannon)
-- [x] How Python uses Indentation to control Flow, Don't Repeat Yourself, Design Patterns, Class, Object, Static, Property/Attribute, Method (Nicole)
+- [x] How Python uses Indentation to control Flow [PythonIndentation.md], Don't Repeat Yourself [CodeRepetition.md], Design Patterns, Class, Object, Static, Property/Attribute, Method (Nicole)
 - [] Calculator Blueprint (Kelley)
 
 
