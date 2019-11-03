@@ -1,4 +1,4 @@
-#Reading Files
+# Reading Files
 
 Python allows for a user to import and export files. Use **‘with open’**, to open and close a file. Without using **‘with open’** the file will stay open, which is not best practice. After code is created to open a file, it should be read. **‘with open (’** *<’name of file>*, **‘r)’** allows a file to be opened in read-only mode. Other methods to read files include: 
 
@@ -7,6 +7,7 @@ Python allows for a user to import and export files. Use **‘with open’**, to
 3. **.readlines()**: it reads the lines from the file and returns as a list.
 
 
-![reading](/images/images/readFiles.png)
+![reading](/images/images/readfiles.png)
+
 *Example of using .read to read a csv file*
 
