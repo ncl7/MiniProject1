@@ -4,4 +4,5 @@ A **factory method** is a creational design pattern, used to implement a factory
 
 ![Factory](/images/images/factory.png)
 
-*From the example, factory method took string "Truck" and output the print from Truck object.
+*From the example, factory method took string "Truck" and output the print from Truck object.*
+
