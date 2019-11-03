@@ -4,4 +4,4 @@ In Object Oriented Programming, a **constructor** is a special method that is ca
 
 ![Constructor](/images/images/constructor.png)
 
-*In the example, the constructor instantiated Subject and printed "Web Development" when called.
+*In the example, the constructor instantiated Subject and printed "Web Development" when called.*
