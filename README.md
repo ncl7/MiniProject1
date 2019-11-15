@@ -64,3 +64,4 @@ Group Member Names: Shannon Peay, Nicole Lim, and Kelley Shann
 1. [Design Patterns from the Gang of Four](https://github.com/Shannon-NJIT/MiniProject1/blob/master/DesignPatterns.md)
 1. [Class](https://github.com/Shannon-NJIT/MiniProject1/blob/master/Class.md)
 1. [Object](https://github.com/Shannon-NJIT/MiniProject1/blob/master/Object.md)
+1. [Static](https://github.com/Shannon-NJIT/MiniProject1/blob/master/Static.md)
