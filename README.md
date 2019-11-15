@@ -59,5 +59,4 @@ Group Member Names: Shannon Peay, Nicole Lim, and Kelley Shann
 1. [Extend Class](https://github.com/Shannon-NJIT/MiniProject1/blob/master/ExtendClass.md)
 1. [CSV Files](https://github.com/Shannon-NJIT/MiniProject1/blob/master/CSVFiles.md)
 1. [Reading Files](https://github.com/Shannon-NJIT/MiniProject1/blob/master/ReadingFiles.md)
-
-
+1. [Python Indentation](https://github.com/Shannon-NJIT/MiniProject1/blob/master/PythonIndentation.md)
