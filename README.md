@@ -66,3 +66,4 @@ Group Member Names: Shannon Peay, Nicole Lim, and Kelley Shann
 1. [Object](https://github.com/Shannon-NJIT/MiniProject1/blob/master/Object.md)
 1. [Static](https://github.com/Shannon-NJIT/MiniProject1/blob/master/Static.md)
 1. [Property/Attribute](https://github.com/Shannon-NJIT/MiniProject1/blob/master/Property.md)
+1. [Method](https://github.com/Shannon-NJIT/MiniProject1/blob/master/Method.md)
