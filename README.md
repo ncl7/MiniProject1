@@ -62,3 +62,4 @@ Group Member Names: Shannon Peay, Nicole Lim, and Kelley Shann
 1. [Python Indentation](https://github.com/Shannon-NJIT/MiniProject1/blob/master/PythonIndentation.md)
 1. [Code Repetition](https://github.com/Shannon-NJIT/MiniProject1/blob/master/CodeRepetition.md)
 1. [Design Patterns from the Gang of Four](https://github.com/Shannon-NJIT/MiniProject1/blob/master/DesignPatterns.md)
+1. [Class](https://github.com/Shannon-NJIT/MiniProject1/blob/master/Class.md)
