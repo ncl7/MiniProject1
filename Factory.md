@@ -1,2 +1,8 @@
+# Factory
 
-A factory method is a creational design pattern. Use factory method to implement a factory pattern. It allows you to create an object based on a specified string. The object created is determined by the string passed through the method. The benefit of using a factory method pattern is that additional functionality could be added to a new string and class. There would be no need to read the source code. When you create a function, the factory will take a string input and output an object.
+A **factory method** is a creational design pattern, used to implement a factory pattern. When you create a function, the factory will take a string input and output an object. A factory method pattern is beneficial because additional functionality can be added to a new string and class.
+
+![Factory](/images/images/factory.png)
+
+*From the example, factory method took string "Truck" and output the print from Truck object.*
+
